@@ -19,6 +19,6 @@ class MyApp extends StatelessWidget {
         return MaterialApp(debugShowCheckedModeBanner: false);
       },
       child: const LoginPage(),
-    );
+    ); 
   }
 }
